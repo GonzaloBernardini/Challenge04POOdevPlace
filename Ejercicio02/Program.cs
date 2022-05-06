@@ -6,7 +6,7 @@ namespace Ejercicio02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese nombre, luego apellido y por ultimo DNI");
+            Console.WriteLine("Ingrese nombre, luego edad y por ultimo DNI");
             string nombr = Console.ReadLine();
             int ed = Convert.ToInt32(Console.ReadLine());
             string dniPer = Console.ReadLine();
@@ -15,7 +15,7 @@ namespace Ejercicio02
             nuevaPer.edad = ed;
             nuevaPer.DNI = dniPer;
             nuevaPer.getDatos();
-
+            nuevaPer.esMayorEdad();
         }
         class Persona
         {
@@ -23,36 +23,46 @@ namespace Ejercicio02
 
             public int edad { get; set; }
 
+            private string dni;
             public string DNI
             {
-                //valido la entrada de datos en el set
-                set
+                get { return dni; } set
                 {
-                    int maxLenght = 8;
-                    if (value.Length != maxLenght)
+                    if (value.Length < 8)
                     {
-                        Console.WriteLine("El dni tiene que tener 8 digitos");
-
+                        Console.WriteLine("debe ser mayor a 8 digitos");
                     }
                     else
                     {
-                        DNI = value;
-                    }
-                }
-                get { return DNI; }
-            }
-                
+                        dni = value;
+                    } } }
+             
 
             //ctor por defecto
             public Persona()
             {
-
+                
             }
             public void getDatos()
             {
                 Console.WriteLine($"Mi nombre es: {nombre} \n Mi edad es: {edad} \n Mi DNI es : {DNI} ");
             }
 
+            public bool esMayorEdad()
+            {
+                
+                if (edad>18)
+                {
+                    Console.WriteLine("Soy mayor de edad");
+                    return true;
+                }
+                else
+                {
+                    Console.WriteLine("No soy mayor de edad :c");
+                    return false;
+                }
+                
+            }
 
         }
     }
