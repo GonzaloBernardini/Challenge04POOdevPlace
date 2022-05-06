@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\bin\Debug\netcoreapp3.1\Ejercicio08.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\bin\Debug\netcoreapp3.1\Ejercicio08.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\bin\Debug\netcoreapp3.1\Ejercicio08.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\bin\Debug\netcoreapp3.1\Ejercicio08.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\bin\Debug\netcoreapp3.1\Ejercicio08.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\bin\Debug\netcoreapp3.1\Ejercicio08.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\obj\Debug\netcoreapp3.1\Ejercicio08.csproj.AssemblyReference.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\obj\Debug\netcoreapp3.1\Ejercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\obj\Debug\netcoreapp3.1\Ejercicio08.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\obj\Debug\netcoreapp3.1\Ejercicio08.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\obj\Debug\netcoreapp3.1\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\obj\Debug\netcoreapp3.1\Ejercicio08.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\obj\Debug\netcoreapp3.1\Ejercicio08.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\Ejercicio08\obj\Debug\netcoreapp3.1\Ejercicio08.genruntimeconfig.cache

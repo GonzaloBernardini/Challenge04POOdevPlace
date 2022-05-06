@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\bin\Debug\netcoreapp3.1\ChallengePOODia04.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\bin\Debug\netcoreapp3.1\ChallengePOODia04.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\bin\Debug\netcoreapp3.1\ChallengePOODia04.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\bin\Debug\netcoreapp3.1\ChallengePOODia04.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\bin\Debug\netcoreapp3.1\ChallengePOODia04.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\bin\Debug\netcoreapp3.1\ChallengePOODia04.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\obj\Debug\netcoreapp3.1\ChallengePOODia04.csproj.AssemblyReference.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\obj\Debug\netcoreapp3.1\ChallengePOODia04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\obj\Debug\netcoreapp3.1\ChallengePOODia04.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\obj\Debug\netcoreapp3.1\ChallengePOODia04.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\obj\Debug\netcoreapp3.1\ChallengePOODia04.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\obj\Debug\netcoreapp3.1\ChallengePOODia04.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\obj\Debug\netcoreapp3.1\ChallengePOODia04.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia04\ChallengePOODia04\obj\Debug\netcoreapp3.1\ChallengePOODia04.genruntimeconfig.cache
